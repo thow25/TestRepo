@@ -1,4 +1,0 @@
-This is a new .txt file that we're editing over GitHub.
-
-Here are my (Torrelle's) first edits:
-// Stuff
